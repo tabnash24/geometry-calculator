@@ -29,7 +29,7 @@ This is a C program that allows you to calculate the area, perimeter, volume, an
 
 ## Future changes
 
-The main function will be optimised
+The main function will be optimised.
 
 ## Author
 
