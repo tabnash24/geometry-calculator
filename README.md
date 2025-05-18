@@ -27,6 +27,10 @@ This is a C program that allows you to calculate the area, perimeter, volume, an
     ./geometry_calculator
     ```
 
-## License
+## Future changes
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The main function will be optimised
+
+## Author
+
+tabnash24
