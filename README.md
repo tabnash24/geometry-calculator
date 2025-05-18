@@ -33,4 +33,4 @@ The main function will be optimised
 
 ## Author
 
-tabnash24
+Tabna Shahid
